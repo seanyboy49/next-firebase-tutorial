@@ -1,14 +1,23 @@
 env:
   # Get these values from the Firebase console
-  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
+  - variable: AIzaSyAvC8qvCho8v1vyFQXjfI3sQcvvRFe1JQQ
     value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+  - variable: friendlyeats-codelab-e3702.firebaseapp.com
     value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+  - variable: friendlyeats-codelab-e3702
     value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+  - variable: friendlyeats-codelab-e3702.appspot.com
     value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+  - variable: 814602273963
     value: TODO
-  - variable: NEXT_PUBLIC_FIREBASE_APP_ID
+  - variable: 1:814602273963:web:074cd4e79ff48ef80623ee
     value: TODO
+#     const firebaseConfig = {
+#   apiKey: "AIzaSyAvC8qvCho8v1vyFQXjfI3sQcvvRFe1JQQ",
+#   authDomain: "friendlyeats-codelab-e3702.firebaseapp.com",
+#   projectId: "friendlyeats-codelab-e3702",
+#   storageBucket: "friendlyeats-codelab-e3702.appspot.com",
+#   messagingSenderId: "814602273963",
+#   appId: "1:814602273963:web:074cd4e79ff48ef80623ee",
+#   measurementId: "G-LY0KGXYY88"
+# };
